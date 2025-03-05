@@ -8,6 +8,6 @@ test of lower case
 
 ---
 
-**Introduction to Doc Example**
+**Introduction to Doc Example v2**
 
 Second Example of a description for Doc Example
